@@ -232,7 +232,10 @@ This project is available for educational and analytical purposes.
 
 ## 👤 Author
 
-**Vinee**
+**Vineet Patel**
+- Email: vineetpatel468@gmail.com
+- GitHub: [@vineet416](https://github.com/vineet416)
+- LinkedIn: [@vineet416](https://www.linkedin.com/in/vineet416/)
 
 ## 📧 Contact
 
